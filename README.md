@@ -1,5 +1,5 @@
 # hello-world
 This is my first repository
+Hi programmer!
 
-Hi programmers!
-Abdessittir here, I love computer science in general spacially the software engineering
+Abdessittir here, I love computer science in general spacially the software enginening.
